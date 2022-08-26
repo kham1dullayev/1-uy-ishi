@@ -13,9 +13,9 @@ a{
 }
 
 .btn{
-    width: 140px;
+    width: 130px;
     border: none !important;
     border-radius: 0 !important;
     background-color: black !important;
-    color: rgb(234, 152, 0) !important;
+    color: #ea9800 !important;
 }
